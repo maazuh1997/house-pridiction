@@ -1,0 +1,38 @@
+.nav-links {
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    float: right;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  
+    
+  }
+  .nav-link {
+    flex-direction: row;
+    color: #fff;
+    display: flex;
+    float:right;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    
+    
+  }
+  
+  .nav-links.nav-link:hover {
+    
+    transition: all 0.2s ease-out;
+  }
+  .navbar {
+    background: green;
+    height: 40px;
+    display: flex;
+    font-size: 1.2rem;
+    flex-direction: column;
+    margin-top: -08px;
+    margin:"0"
+  }
+  
+.nav-item {
+    height: 80px;
+  }

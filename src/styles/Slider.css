@@ -1,0 +1,18 @@
+
+  
+  .App {
+    font-family: sans-serif;
+    width: 750px;
+    margin-left: 400px;
+    
+  }
+  
+ 
+  
+  
+  
+  .slick-prev:before,
+  .slick-next:before {
+    color:black;
+  }
+  

@@ -1,0 +1,57 @@
+.accordion-btn{
+    width:45%;
+    background-color: rgba(34,34,34,.85);
+    margin-left: 25%;
+    
+    }
+    .summary-icon{
+        font-size: 10px;
+        color:#fff;
+    }
+    .wrapper-form{
+        margin-left: 01%;
+        margin-Top:-05px;
+    }
+    .input-text{
+        padding: 0px 10px 0px;
+        display: flex;
+        width: 420px;
+        height: 48px;
+        font-size: large;
+        border: none;
+    }
+    .wrapper-mid{
+        margin-left: 01%;
+        margin-top: -05px;
+    }
+    .btn-find{
+        height: 48px;
+        background-color: green;
+        color: #fff;
+        width: 100px;
+    }
+    .text-1{
+        margin-left:16px;
+        float:left;
+        display:flex;
+        flex-direction:row;
+        margin-top:-20px
+    }
+    .text-2{
+        display: flex;
+        flex-direction: row;
+        float: left;
+        margin-left: 6.100px;
+    }
+    .text-3{
+        float: left;
+        display: flex;
+        margin-left: 6.100px;
+        flex-direction: row;
+    }
+    .text-4{
+        float: left;
+        display: flex;
+        margin-left: 6.100px;
+        flex-direction: row; 
+    }
